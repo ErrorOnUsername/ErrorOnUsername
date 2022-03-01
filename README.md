@@ -1,5 +1,5 @@
 # Hi, I'm Richard!
-Right now im a freshman in university hoping to major in Computer Science/Computer Engineering, assuming that ETAM goes well.
+Right now im a freshman at Texas A&M University hoping to major in Computer Science/Computer Engineering, assuming that ETAM goes well.
 
 ## My interests:
 - Operating systems
