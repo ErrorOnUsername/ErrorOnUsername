@@ -6,7 +6,7 @@ Right now im a freshman at Texas A&M University hoping to major in Computer Scie
 - Game engines
 - Robotics
 - Embedded Software
-- (really most things that are web or AI related)
+- (really most things that aren't web or AI related)
 
 ---
 
